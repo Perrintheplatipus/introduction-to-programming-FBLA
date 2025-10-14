@@ -1,0 +1,15 @@
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\bin\Debug\net10.0\Tomogachi.exe
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\bin\Debug\net10.0\Tomogachi.deps.json
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\bin\Debug\net10.0\Tomogachi.runtimeconfig.json
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\bin\Debug\net10.0\Tomogachi.dll
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\bin\Debug\net10.0\Tomogachi.pdb
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\obj\Debug\net10.0\Tomogachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\obj\Debug\net10.0\Tomogachi.AssemblyInfoInputs.cache
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\obj\Debug\net10.0\Tomogachi.AssemblyInfo.cs
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\obj\Debug\net10.0\Tomogachi.csproj.CoreCompileInputs.cache
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\obj\Debug\net10.0\Tomogachi.sourcelink.json
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\obj\Debug\net10.0\Tomogachi.dll
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\obj\Debug\net10.0\refint\Tomogachi.dll
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\obj\Debug\net10.0\Tomogachi.pdb
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\obj\Debug\net10.0\Tomogachi.genruntimeconfig.cache
+C:\Users\ppkle\OneDrive\Documents\introduction-to-programming-FBLA\Tomogachi\obj\Debug\net10.0\ref\Tomogachi.dll
